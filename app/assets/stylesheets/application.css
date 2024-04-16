@@ -1,10 +1,9 @@
-/* Styles for the navigation bar */
 nav {
-    background-color: #2e111a; /* Change to your preferred color */
+    background-color: #2e111a;
     padding: 10px;
   }
   
-  /* Styles for the list of navigation items */
+  
   nav ul {
     list-style: none;
     margin: 0;
@@ -13,15 +12,13 @@ nav {
     justify-content: space-around;
   }
   
-  /* Styles for the links in the navigation bar */
   nav ul li a {
-    color: white; /* Change to your preferred color */
+    color: white;
     text-decoration: none;
     padding: 10px 20px;
   }
   
-  /* Styles for links when hovered over */
   nav ul li a:hover {
-    background-color: #2e111a; /* Change to your preferred hover color */
+    background-color: #2e111a;
   }
   
